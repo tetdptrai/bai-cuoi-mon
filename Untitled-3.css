@@ -1,0 +1,559 @@
+@charset "utf-8";
+/* CSS Document */
+/*
+*margin: 0px;
+*padding: 0px;
+*/
+#tong{
+	width: 1000px;
+	height: 3690px;
+	background: white;
+}
+.head{
+	width: 100%;
+	height: 150px;
+	background: #E8E8E8;
+}
+.headphai{
+	width: 20%;
+	height: 100%;
+	background: #C1484A;
+	float: left;
+}
+.headphai img{
+	margin-top: -25px;
+}
+.headtrai{
+	width: 80%;
+	height: 100%;
+	background: #733A3B;
+	float: right;
+		
+}
+.menutong{
+	width: 100%;
+	height: 50%;
+	background: #E1E1E1;
+}
+.trangchu{
+	width: 25%;
+	height: 100%;
+	background:#E5E5E5;
+	float: left;
+}
+.gioithieu{
+	width: 25%;
+	height: 100%;
+	background: #E5E5E5;
+	float: left;
+}
+.sanpham{
+	width: 25%;
+	height: 100%;
+	background: #E5E5E5;
+	float: left;
+}
+.giohang{
+	width: 25%;
+	height: 100%;
+	background: #E5E5E5;
+	float: left;
+}
+.timkiem{
+	width: 100%;
+	height: 50%;
+	background: white;	
+}
+.timkiem img{
+	margin-left: 150px;
+	
+}
+.main{
+	width: 100%;
+	height: 3230px;
+	background: white;
+}
+.main1{
+	width: 100%;
+	height: 350px;
+	background: white;
+	padding-top: 50px;
+	padding-bottom: 25px;
+}
+.main1trai{
+	width: 50%;
+	height: 100%;
+	background: #A7A0A0;
+	float:left;
+}
+.main1traichu{
+	width: 100%;
+	height: 40%;
+	background: white;
+	text-align: center
+}
+.main1traichu h1chu{
+	margin-left: 5px;
+	font-size: 40px;
+	line-height: 60px;
+}
+.main1traiid{
+	width: 100%;
+	height: 15%;
+	background: white;
+}
+.main1traiidkhung{
+	width: 250px;
+	height: 40px;
+	border: solid 1px;
+	margin: 0 auto
+}
+.main1traiidkhung hid{
+	margin-left: 15px;
+	line-height: 2.5;
+}
+.main1traipass{
+	width: 100%;
+	height: 15%;
+	background: white;
+}
+.main1traipasskhung{
+	width: 250px;
+	height: 40px;
+	border: solid 1px;
+	margin: 0 auto
+}	
+.main1traipasskhung hpass{
+		margin-left: 15px;
+	line-height: 2.5;
+}
+.main1traidangnhap{
+	width: 100%;
+	height: 30%;
+	background: white;
+}
+.main1traidangnhapkhung{
+	width: 200px;
+	height: 40px;
+	margin: 0 auto;
+	border: solid 1 #2e3992;
+	background: #2e3992;
+	text-align: center;
+	text-decoration-color: aliceblue;
+	
+}
+.main1traidangnhapkhung hdangnhap{
+	font-size: 20px;
+	line-height: 40px;
+	color: aliceblue;
+	letter-spacing: 1px;
+	word-spacing: -2px;
+	
+}
+.main1phai{
+	width: 50%;
+	height: 100%;
+	background: white;
+	float:left;
+}
+.main1phai img{
+	margin-left: 25px;
+}
+.main2{
+	width: 100%;
+	height: 670px;
+	background: #C83B3D;
+}
+.main2trai{
+	width: 50%;
+	height: 100%;
+	background: #524546;
+	float:left;
+}
+.main2kt{
+	width: 100%;
+	height: 70px;
+	background: white;
+}
+.main2head{
+	width: 100%;
+	height: 250px;
+	background: white;
+	text-align: center;
+}
+.main2head hmain2head{
+	font-size: 50px;
+	margin-left: 10px;
+}
+.main2video{
+	width: 100%;
+	height: 350px;
+	background: white;
+}
+.main2video img{
+	margin-left: 50px;
+	margin-top: 15px;
+}
+.main2gach{
+	width: 10px;
+	height: 500px;
+	background: #E8E8E8;
+	float: left
+}
+.main2phai{
+	width: 50%;
+	height: 100%;
+	background: white;
+	float:left;
+}
+.main2textphai{
+	width: 32%;
+	height: 30px;
+	background: #2e3992;
+	float: right;
+	margin-right: 25px;
+	margin-top: -35px;
+	text-align: center;
+	opacity: 0.9;
+}
+.main2textphai hmain2phai{
+	font-size: 20px;
+	color: aliceblue;
+}
+.main2ktphai{
+	width: 100%;
+	height: 80px;
+	background: white;
+	
+}
+.main2texttrai{
+	width: 80%;
+	height: 470px;
+	background: white;
+	float: left;
+	padding-left: 50px
+}
+.main2texttrai hmain2rv{
+	font-size: 20px;
+	margin-left: 25px
+}
+.main3{
+	width: 100%;
+	height: 610px;
+	background: #90292A;
+	
+}
+.main3gach{
+	width: 10px;
+	height: 470px;
+	background: #E8E8E8;
+	float: left
+}
+.main3trai{
+	width: 50%;
+	height: 100%;
+	background:white;
+	float:left;
+}
+.main3kt{
+	width: 100%;
+	height: 190px;
+	background: white;
+}
+.main3traihead{
+
+	width: 100%;
+	height: 200px;
+	background: white;
+	text-align: center;
+}
+.main3traihead hmain3head{
+	font-size: 50px;
+}
+.main3phai{
+	width: 50%;
+	height: 100%;
+	background: white;
+	float:left;
+}
+.main3ktphai{
+	width: 100%;
+	height: 70px;
+	background: white;
+}
+.main34giay{
+	width: 400px;
+	height: 400px;
+	margin-left: 50px;
+	margin-top: 30px;
+	background: #AA0002;
+}
+.main3phai1{
+	width: 200px;
+	height: 200px;
+	float: left;
+	background: #C95052
+}
+.main3phai2{
+	width: 200px;
+	height: 200px;
+	float: left;
+	background: #B2BD3E
+}
+.main3phai3{
+	width: 200px;
+	height: 200px;
+	float: left;
+	background: #22C415
+}
+.main3phai4{
+	width: 200px;
+	height: 200px;
+	float: left;
+	background: #0068BD
+}
+.main4{
+	width: 100%;
+	height: 600px;
+	background: #4B1617;
+}
+.main4kt{
+	width: 100%;
+	height: 130px;
+	background: white;
+	font-size: 50px;
+	text-align: center;
+	line-height: 2;
+}
+.main4cach{
+	width: 25px;
+	height: 90%;
+	float: left;
+	background: white;
+}
+.main4so1{
+	width: 300px;
+	height: 90%;
+	background: white;
+	float: left;
+}
+.main4so1anh{
+	width: 300px;
+	height: 300px;
+}
+.main4so1text{
+	width: 300px;
+	height: 200px;
+	background: white;
+	text-align:center;
+	font-size: 25px;
+}
+.main4so1text hgia1{
+	color: red;
+	line-height: 3.6
+}
+.main4so2{
+	width: 300px;
+	height: 90%;
+	background: white;
+	float: left;
+}
+.main4so2anh{
+	width: 300px;
+	height: 300px;
+}
+.main4so2text{
+	width: 300px;
+	height: 200px;
+	text-align:center;
+	font-size: 25px;
+	margin-top: 25px;
+}
+.main4so2text hgia2{
+	color: red;
+	
+}
+.main4so3{
+	width: 300px;
+	height: 90%;
+	background: white;
+	float: left;
+}
+.main4so3anh{
+	width: 300px;
+	height: 300px;
+}
+.main4so3text{
+	width: 300px;
+	height: 200px;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 24px;
+}
+.main4so3text hgia3{
+	color: red
+}
+.main4next{
+	width: 100%;
+	height: 50px;
+	background: #2e3993;
+	clear: both;
+	float: left;
+	text-align: center;
+	font-size: 20px;
+	color: aliceblue;
+	line-height: 2.3;
+}
+.main4ktd{
+	width: 100%;
+	height: 30px;
+	float: left;
+	background: white
+}
+.main5{
+	width: 100%;
+	height: 600px;
+	background: #4B1617;
+}
+.main5kt{
+	width: 100%;
+	height: 100px;
+	background: white;
+	font-size: 50px;
+	text-align: center;
+	float: left;
+	line-height: 2
+}
+.main5cach{
+	width: 25px;
+	height: 90%;
+	float: left;
+	background: white;
+}
+.main5so1{
+	width: 300px;
+	height: 90%;
+	background: white;
+	float: left;
+}
+.main5so1anh{
+	width: 300px;
+	height: 300px;
+}
+.main5so1text{
+	width: 300px;
+	height: 200px;
+	background: white;
+	text-align:center;
+	font-size: 25px;
+}
+.main5so1text hgia1{
+	color: red;
+	line-height: 3.6
+}
+.main5so2{
+	width: 300px;
+	height: 90%;
+	background: white;
+	float: left;
+}
+.main5so2anh{
+	width: 300px;
+	height: 300px;
+}
+.main5so2text{
+	width: 300px;
+	height: 200px;
+	text-align:center;
+	font-size: 25px;
+	margin-top: 25px;
+}
+.main5so2text hgia2{
+	color: red;
+	
+}
+.main5so3{
+	width: 300px;
+	height: 90%;
+	background: white;
+	float: left;
+}
+.main5so3anh{
+	width: 300px;
+	height: 300px;
+}
+.main5so3text{
+	width: 300px;
+	height: 200px;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 24px;
+}
+.main5so3text hgia3{
+	color: red
+}
+.main5next{
+	width: 100%;
+	height: 50px;
+	background: #2e3993;
+	clear: both;
+	text-align: center;
+	font-size: 20px;
+	line-height: 2.5;
+	color: aliceblue;
+	float: left
+}
+.main5ktd{
+	width: 100%;
+	height: 30px;
+	float: left;
+	background: white;
+}
+.foot{
+	width: 100%;
+	height: 300px;
+	background: white;
+}
+.footkt{
+	width: 50%;
+	height: 17%;
+	background: white;
+	float: right
+}
+.foottren{
+	width: 50%;
+	height: 59%;
+	background: white;
+	float: left;
+	font-size: 17px;
+}
+.foottrai{
+	width: 50%;
+	height: 100%;
+	background: white;
+	float: left;
+
+}
+.foottrai img{
+	margin-left: 25px;
+}
+.footphai{
+	width: 50%;
+	height: 15%;
+	background: white;
+	float: right;
+	font-size: 13px;
+}
+h1{
+	text-align: center;
+	font-size: 20px;
+	line-height: 50px;
+	
+	
+}
+.cach{
+	width: 100%;
+	height: 10px;
+	background: #E5E5E5;
+	float: left
+}
